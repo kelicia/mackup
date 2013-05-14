@@ -222,7 +222,7 @@ Some people tried to solve the problem on the application layer, like
 problem: I don't really spend time installing stuff, mostly downloading: I
 spend time configuring it.
 
-For years, I've used a personnal shell script that was copying known config
+For years, I've used a personal shell script that was copying known config
 files into Subversion, Git or Dropbox, and linked them into my home. But I felt
 a lot of us had the same problem: Making a more generic tool could help others
 and I could get help from others to support more apps in the tool.
